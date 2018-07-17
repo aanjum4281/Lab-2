@@ -3,7 +3,7 @@ package classroom;
 import java.util.Scanner;
 
 public class Lab2 {
-	do {
+	
 		public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			Scanner scnr = new Scanner(System.in);
@@ -28,8 +28,8 @@ public class Lab2 {
 			scnr.close();
 			
 			System.out.println("Would you like to continue? (Yes/No)");
-	 
-	while (userInput == 'Yes');
+	 //making change because David told me to 
+	
 		}
-	}
+	
 }
